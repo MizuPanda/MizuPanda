@@ -1,5 +1,5 @@
 ## Hello 👋
-My name is **Juniel** and I am a **computer science** student at the **University of Waterloo**. I'm a **full-stack** developer looking for summer internships in 2024.
+My name is **Juniel** and I am a **computer science** student at the **University of Waterloo**. I'm a **full-stack** developer looking for Winter internships in 2024.
 I have experience in **mobile development**, and **game development**.
 <!--
 **MizuPanda/MizuPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
